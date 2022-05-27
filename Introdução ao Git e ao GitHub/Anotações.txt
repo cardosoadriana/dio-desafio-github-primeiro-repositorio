@@ -1,0 +1,26 @@
+Comandos para o Git e GitHub:
+
+cd - navegar entre as pastas
+cd .. - volta para navegação da pasta anterior
+dir - lista de diretórios dentro da pasta atual;
+cls - limpar a tela
+mkdir - criar uma nova pasta
+del - remove apenas arquivos
+rmdir - remove todo o diretório (pastas e arquivos)
+openssl sha1: salvar alterações dos arquivos ( para uma nova hash)
+
+
+*na nova versão, o master foi alterado para main*
+
+
+git init
+git add
+git commit
+
+
+mkdir: cria uma nova pasta
+-a: arquivos ocultos
+tudo que tem .git (exemplo) é uma pasta oculta
+
+toda alteração precisa fazer o git add * e depois git status
+e para adicionar, com git push origin main
